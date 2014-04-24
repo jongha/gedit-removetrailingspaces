@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=removetrailingspaces
+IAge=3
+Name=Remove Trailing Spaces
+Description=A remove trailing spaces plugin.
+Authors=Jong-Ha Ahn
+Copyright=Copyright (c) 2014 Jong-Ha Ahn
+Website=http://www.mrlatte.net
+Version=1.0.0
