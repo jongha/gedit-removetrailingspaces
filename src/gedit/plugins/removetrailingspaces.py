@@ -21,7 +21,7 @@ class RemoveTrailingSpacesPlugin(GObject.Object, Gedit.WindowActivatable):
 
     def _add_ui(self):
         manager = self.window.get_ui_manager()
-        self._actions = Gtk.ActionGroup('Example04Actions')
+        self._actions = Gtk.ActionGroup('RemoveTrailingSpacesActions')
         self._actions.add_actions([
             (
             'RemoveTrailingSpacesPlugin',

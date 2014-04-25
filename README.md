@@ -1,4 +1,4 @@
-# gedit-removetrailingspaces
+# gedit Remove Trailing Spaces Plugin
 
 ## Install
 
